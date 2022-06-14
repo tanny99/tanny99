@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanishk Gupta</h1>
 <h3 align="center">A Computer Science And Engineering Student of JIIT Noida, India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deathstar427&label=Profile%20views&color=0e75b6&style=flat" alt="deathstar427" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanny99&label=Profile%20views&color=0e75b6&style=flat" alt="tanny99" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/priyanshu427x" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu427x?logo=twitter&style=for-the-badge" alt="priyanshu427x" /></a> </p>
