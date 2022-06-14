@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanny99&label=Profile%20views&color=0e75b6&style=flat" alt="tanny99" /> </p>
 
 
-<p align="left"> <a href="https://twitter.com/priyanshu427x" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu427x?logo=twitter&style=for-the-badge" alt="priyanshu427x" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Tanishk78424595" target="blank"><img src="https://img.shields.io/twitter/follow/priyanshu427x?logo=twitter&style=for-the-badge" alt="priyanshu427x" /></a> </p>
 
 - 🌱 I’m currently practising **Data Structures and Algorithms**
 
