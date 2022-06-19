@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tanishk Gupta</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" width="30" height="40">Hi, I'm Tanishk Gupta</h1>
 <h3 align="center">A Computer Science And Engineering Student of JIIT Noida, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanny99&label=Profile%20views&color=0e75b6&style=flat" alt="tanny99" /> </p>
