@@ -41,6 +41,5 @@
   <summary> Github trophies </summary>
       <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanny99" alt="tanny99" />       </a> </p>
 </details>
-![](https://activity-graph.herokuapp.com/graph?username=tanny99&theme=react-dark&hide_border=false&area=true)
 
 
