@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **tanishkgupta@gmail.com**
 
-<h3 align="left">Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;"></h3>
+<h3 align="left">Connect with me: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="50px" style="padding-top: 50px;"></h3>
 
 <p align="left">
 <a href="https://twitter.com/Tanishk78424595" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Tanishk Gupta" height="30" width="40" /></a>
