@@ -2,16 +2,17 @@
 <!-- ██              TANISHK GUPTA — GITHUB README              ██ -->
 <!-- ██████████████████████████████████████████████████████████ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0d1117,100:00d9ff&height=200&section=header&text=TANISHK%20GUPTA&fontSize=52&fontColor=00d9ff&animation=twinkling&fontAlignY=36&desc=Platform%20Architect%20·%20Founder%20·%20Builder&descAlignY=58&descAlign=50&descColor=7b2fbe&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,40:0d1117,100:00d9ff&height=220&section=header&text=TANISHK%20GUPTA&fontSize=56&fontColor=00d9ff&animation=twinkling&fontAlignY=36&desc=Platform%20Architect%20%C2%B7%20Founder%20%C2%B7%20Builder&descAlignY=58&descAlign=50&descColor=ff3864&descSize=18" width="100%" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=00D9FF&background=00000000&center=true&vCenter=true&width=750&lines=🚀+Senior+Mobile+Platform+Engineer;🏗️+Multi-Tenant+%7C+Server-Driven+%7C+Commerce;🎮+Co-Founder+%40+Menoob+—+A+Gamer's+True+Identity;⚡+Founder+%40+Torrtus+—+AI+%26+Software+Agency;🔥+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
+<!-- TYPING SVG — ASCII only lines, no emoji in URL -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2600&pause=900&color=00D9FF&background=00000000&center=true&vCenter=true&width=780&lines=%3E+SENIOR+MOBILE+PLATFORM+ENGINEER;%3E+MULTI-TENANT+%7C+SERVER-DRIVEN+%7C+COMMERCE;%3E+CO-FOUNDER+%40+MENOOB+--+A+GAMER%27S+TRUE+IDENTITY;%3E+FOUNDER+%40+TORRTUS+--+AI+%26+SOFTWARE+AGENCY;%3E+TURNING+COMPLEX+PROBLEMS+INTO+CLEAN+CODE" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://komarev.com/ghpvc/?username=tanny99">
-  <img src="https://komarev.com/ghpvc/?username=tanny99&label=👁%20PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
+  <img src="https://komarev.com/ghpvc/?username=tanny99&label=%F0%9F%91%81%20PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://github.com/tanny99?tab=followers">
@@ -19,69 +20,80 @@
 </a>
 &nbsp;
 <img src="https://img.shields.io/badge/STATUS-BUILDING%20%F0%9F%94%A5-ff3864?style=for-the-badge&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/SYS-ONLINE-00ff41?style=for-the-badge&labelColor=0d1117&logo=statuspage&logoColor=00ff41" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                           -->
+<!--                      SYSTEM BOOT                          -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓                                                                      ▓
+▓   BIOS v2026.05 — INITIALIZING CORE SYSTEMS...                      ▓
+▓   ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ [BOOT]          ▓
+▓                                                                      ▓
+▓   [  OK  ]  Loading TANISHK_GUPTA.exe                               ▓
+▓   [  OK  ]  Authenticating identity matrix...                        ▓
+▓   [  OK  ]  Mounting skill modules — React Native · Flutter · iOS    ▓
+▓   [  OK  ]  Linking AI subsystems — Gemini · GPT-4                  ▓
+▓   [  OK  ]  Establishing uplink — Torrtus HQ                        ▓
+▓   [ WARN ]  Stealth mode ACTIVE — some data REDACTED                ▓
+▓                                                                      ▓
+▓   > SYSTEM ONLINE  |  LATENCY: 12ms  |  STATUS: REMOTE              ▓
+▓                                                                      ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                     > SYSTEM BOOT SEQUENCE                          ║
-║                     > INITIALIZING PROFILE...                       ║
-║                     > LOADING TANISHK_GUPTA.exe                     ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  NAME       →  Tanishk Gupta                                        ║
-║  ROLE       →  Senior Mobile Platform Engineer                      ║
-║  COMPANY    →  Batch Systems Inc.                                   ║
-║  BASE       →  JIIT Noida, India  🇮🇳                               ║
-║  VENTURES   →  Founder @ Torrtus  |  Co-Founder @ Menoob           ║
-║  SKILLS     →  React Native · Flutter · iOS · Node.js · AI         ║
-║  STATUS     →  🟢 ONLINE — Architecting at Scale                   ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      IDENTITY CORE                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `> WHO AM I?`
+### `// IDENTITY_CORE //`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=600&color=00FF41&center=true&vCenter=true&width=500&lines=%3E+DECRYPTING+IDENTITY+MATRIX...;%3E+CLEARANCE+LEVEL%3A+ARCHITECT;%3E+IDENTITY+CONFIRMED" alt="Identity Typing" />
 
 </div>
 
 ```yaml
-# tanishk_gupta.yaml
-identity:
-  name: "Tanishk Gupta"
-  alias: "tanny99"
-  role: "Senior Mobile Platform Engineer"
-  company: "Batch Systems Inc."
-  education: "B.Tech CSE — JIIT Noida"
-  location: "Noida, India"
+# /sys/identity/tanishk_gupta.yaml
+# CLASSIFICATION: PUBLIC  |  LAST UPDATED: 2026
+
+operator:
+  name:       "Tanishk Gupta"
+  alias:      "tanny99"
+  node:       "Noida, India  [28.5355° N, 77.3910° E]"
+  role:       "Senior Mobile Platform Engineer"
+  company:    "Batch Systems Inc."
+  education:  "B.Tech CSE — JIIT Noida"
+  uptime:     "~5 years active deployment"
+
+current_directive:
+  - "Architecting multi-tenant mobile platforms at scale"
+  - "Building AI-native products via Torrtus"
+  - "Expanding the Menoob gaming universe"
 
 ventures:
-  - name: "Torrtus"
-    role: "Founder"
-    type: "AI & Software Agency"
-    builds: ["Websites", "Mobile Apps", "CRMs", "Dashboards", "AI Agents"]
-    mode: "Stealth 🔒"
+  - handle:   "TORRTUS"
+    role:     "Founder"
+    type:     "AI & Software Agency"
+    builds:   ["Websites", "Mobile Apps", "CRMs", "Dashboards", "AI Agents"]
+    status:   "[CLASSIFIED] — Stealth Mode ACTIVE 🔒"
 
-  - name: "Menoob"
-    role: "Co-Founder"
-    type: "Gaming Brand & Community"
-    tagline: "A Gamer's True Identity"
-    url: "menoob.in"
-
-specializations:
-  - "Multi-tenant mobile platforms (single codebase, unlimited tenants)"
-  - "Server-driven UI engines with schema-driven rendering"
-  - "Commerce flows — Apple Pay, Stripe, rewards & loyalty ledgers"
-  - "NFC / QR authentication frameworks (CoreNFC)"
-  - "Event-driven engagement with deterministic state transitions"
-  - "CI/CD orchestration & platform reliability"
+  - handle:   "MENOOB"
+    role:     "Co-Founder"
+    type:     "Gaming Brand & Community"
+    tagline:  "A Gamer's True Identity"
+    url:      "menoob.in"
+    status:   "[LIVE]"
 
 open_to: ["Collaboration", "Consulting", "Interesting Problems"]
 ```
@@ -94,30 +106,38 @@ open_to: ["Collaboration", "Consulting", "Interesting Problems"]
 
 <div align="center">
 
-### `> CAREER_TIMELINE`
+### `// CAREER_TIMELINE //`
 
 </div>
 
 ```
-  2024 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  TIMELINE.log — READING COMMIT HISTORY...                          │
+  └─────────────────────────────────────────────────────────────────────┘
+
+  2024 ──────────────────────────────────────────────────────────────────
   │
-  ▶  PLATFORM ARCHITECT & MOBILE LEAD — Batch Systems Inc.
-  │  Multi-tenant systems · Commerce engines · Reliability · CI-CD infra
-  │  React Native · iOS · SwiftUI · Node.js · PostgreSQL
+  ├─▶  [CURRENT]  PLATFORM ARCHITECT & MOBILE LEAD
+  │               Batch Systems Inc.
+  │               ▸ Multi-tenant systems · Commerce engines
+  │               ▸ Reliability infrastructure · CI/CD orchestration
+  │               ▸ React Native · iOS · SwiftUI · Node.js · PostgreSQL
   │
-  2023 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2023 ──────────────────────────────────────────────────────────────────
   │
-  ▶  FULL STACK MOBILE ENGINEER
-  │  BLoC architecture · Advanced API orchestration · Firebase ecosystems
-  │  Flutter · Dart · Node.js · TypeScript
+  ├─▶  FULL STACK MOBILE ENGINEER
+  │               ▸ BLoC architecture · Advanced API orchestration
+  │               ▸ Firebase ecosystems · Event-driven state machines
+  │               ▸ Flutter · Dart · Node.js · TypeScript
   │
-  2020 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  2020 ──────────────────────────────────────────────────────────────────
   │
-  ▶  FLUTTER UI ENGINEER — Foundation
-  │  Video streaming apps · EdTech platforms · Payment gateway integrations
-  │  Flutter · Dart · Firebase · Android
-  │
-  ◀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  └─▶  FLUTTER UI ENGINEER — Foundation Layer
+                  ▸ Video streaming apps · EdTech platforms
+                  ▸ Payment gateway integrations
+                  ▸ Flutter · Dart · Firebase · Android
+
+  ◀━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 ---
@@ -128,7 +148,7 @@ open_to: ["Collaboration", "Consulting", "Interesting Problems"]
 
 <div align="center">
 
-### `> VENTURES`
+### `// ACTIVE_VENTURES //`
 
 </div>
 
@@ -139,18 +159,19 @@ open_to: ["Collaboration", "Consulting", "Interesting Problems"]
 <td align="center" width="50%">
 
 <a href="https://torrtus.com">
-<img src="https://img.shields.io/badge/⚡_TORRTUS-AI_%26_SOFTWARE_AGENCY-00d9ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%9A%A1_TORRTUS-AI_%26_SOFTWARE_AGENCY-00d9ff?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
 ```
-Founder — Stealth Mode 🔒
-─────────────────────────
-  ▸ Custom AI Agents
+[CLASSIFIED] — Stealth Mode 🔒
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ▸ Custom AI Agents & Pipelines
   ▸ Mobile Apps (iOS & Android)
   ▸ Web Platforms & Dashboards
   ▸ CRMs & Business Automation
+  ▸ Status: [REDACTED ██████████]
 ```
 
 </td>
@@ -158,18 +179,19 @@ Founder — Stealth Mode 🔒
 <td align="center" width="50%">
 
 <a href="https://menoob.in">
-<img src="https://img.shields.io/badge/🎮_MENOOB-A_GAMER'S_TRUE_IDENTITY-7b2fbe?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%AE_MENOOB-A_GAMER%27S_TRUE_IDENTITY-7b2fbe?style=for-the-badge&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
 ```
-Co-Founder
-───────────────────────────────────
+[LIVE] — Network Active
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   ▸ Gaming Merchandise Brand
   ▸ Community of Gamers
   ▸ GTA VI · Valorant · GoW Drops
   ▸ Tournament Org & Events
+  ▸ Status: [ONLINE — menoob.in]
 ```
 
 </td>
@@ -186,7 +208,9 @@ Co-Founder
 
 <div align="center">
 
-### `> NOTABLE_PROJECTS`
+### `// NOTABLE_DEPLOYMENTS //`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1600&pause=500&color=FF3864&center=true&vCenter=true&width=500&lines=%3E+SCANNING+PROJECT+REGISTRY...;%3E+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+6+RECORDS+FOUND;%3E+RENDERING+DEPLOYMENT+LOG..." alt="Projects Typing" />
 
 </div>
 
@@ -196,7 +220,7 @@ Co-Founder
 
 <td align="center" width="33%">
 
-**🏗️ Multi-Tenant Mobile Platform**
+**[SYS-001] Multi-Tenant Mobile Platform**
 <br/><br/>
 Single-codebase deployment for unlimited tenants. CMS-driven UI with App Clips and schema-based rendering engine.
 <br/><br/>
@@ -207,7 +231,7 @@ Single-codebase deployment for unlimited tenants. CMS-driven UI with App Clips a
 
 <td align="center" width="33%">
 
-**🛒 Commerce & Loyalty Engine**
+**[SYS-002] Commerce & Loyalty Engine**
 <br/><br/>
 Full commerce flow with Apple Pay & Stripe. Immutable ledger-based loyalty/rewards system with deterministic state transitions.
 <br/><br/>
@@ -218,7 +242,7 @@ Full commerce flow with Apple Pay & Stripe. Immutable ledger-based loyalty/rewar
 
 <td align="center" width="33%">
 
-**🔐 NFC/QR Auth Framework**
+**[SYS-003] NFC/QR Auth Framework**
 <br/><br/>
 Hardware-level authentication using CoreNFC. Tap-to-authenticate flows for physical access and digital identity.
 <br/><br/>
@@ -232,9 +256,9 @@ Hardware-level authentication using CoreNFC. Tap-to-authenticate flows for physi
 
 <td align="center" width="33%">
 
-**🎓 EdTech Ecosystem**
+**[SYS-004] EdTech Ecosystem**
 <br/><br/>
-Full mentor system, course monetization, and student engagement platform. Payment gateway integration and streaming.
+Full mentor system, course monetization, and student engagement platform. Payment gateway integration and live streaming.
 <br/><br/>
 <img src="https://img.shields.io/badge/Flutter-Firebase-00d9ff?style=flat-square&labelColor=0d1117" />
 
@@ -242,21 +266,21 @@ Full mentor system, course monetization, and student engagement platform. Paymen
 
 <td align="center" width="33%">
 
-**🎮 Menoob — Gaming Brand**
+**[SYS-005] Menoob — Gaming Brand**
 <br/><br/>
 E-commerce platform + gaming community. Merch drops, Valorant tournaments, and gaming identity brand from India.
 <br/><br/>
-<img src="https://img.shields.io/badge/menoob.in-LIVE-2EC866?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/menoob.in-LIVE-00ff41?style=flat-square&labelColor=0d1117" />
 
 </td>
 
 <td align="center" width="33%">
 
-**🤖 AI Agent Platform**
+**[SYS-006] AI Agent Platform**
 <br/><br/>
-Via Torrtus — building custom AI agents, dashboards, and automation tools for businesses across industries.
+Via Torrtus — custom AI agents, dashboards, and automation tools for businesses. Privacy-first data sanitization pipeline.
 <br/><br/>
-<img src="https://img.shields.io/badge/torrtus.com-STEALTH-ff3864?style=flat-square&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/torrtus.com-CLASSIFIED-ff3864?style=flat-square&labelColor=0d1117" />
 
 </td>
 
@@ -272,13 +296,13 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 <div align="center">
 
-### `> TECH_ARSENAL`
+### `// TECH_ARSENAL //`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1500&pause=500&color=7B2FBE&center=true&vCenter=true&width=500&lines=%3E+LOADING+SKILLSET...;%3E+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25;%3E+ALL+SYSTEMS+OPERATIONAL" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1500&pause=500&color=7B2FBE&center=true&vCenter=true&width=520&lines=%3E+LOADING+SKILL+MODULES...;%3E+%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25;%3E+ALL+SYSTEMS+OPERATIONAL" alt="Skills Typing" />
 
 </div>
 
-#### ⚡ Languages
+#### `[01]` Languages
 
 <div align="center">
 
@@ -293,7 +317,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 </div>
 
-#### 📱 Mobile & Cross-Platform
+#### `[02]` Mobile & Cross-Platform
 
 <div align="center">
 
@@ -306,7 +330,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 </div>
 
-#### ⚙️ Backend & Infrastructure
+#### `[03]` Backend & Infrastructure
 
 <div align="center">
 
@@ -320,7 +344,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 </div>
 
-#### 💳 Commerce & Integrations
+#### `[04]` Commerce & Auth Protocols
 
 <div align="center">
 
@@ -332,7 +356,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 </div>
 
-#### 🤖 AI & Tools
+#### `[05]` AI & Toolchain
 
 <div align="center">
 
@@ -347,14 +371,14 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      GITHUB STATS                          -->
+<!--                      SYSTEM METRICS                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### `> SYSTEM_METRICS`
+### `// SYSTEM_METRICS //`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=%3E+QUERYING+GITHUB+DATABANK...;%3E+COMPILING+CONTRIBUTION+DATA...;%3E+RENDERING+STATS..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=%3E+QUERYING+GITHUB+DATABANK...;%3E+COMPILING+CONTRIBUTION+DATA...;%3E+RENDERING+STATS..." alt="Stats Typing" />
 
 </div>
 
@@ -389,7 +413,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 <div align="center">
 
-### `> ACHIEVEMENT_UNLOCKED`
+### `// ACHIEVEMENT_UNLOCKED //`
 
 <img src="https://github-profile-trophy.vercel.app/?username=tanny99&theme=radical&no-frame=true&no-bg=false&margin-w=6&row=1&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Reviews" width="95%" />
 
@@ -403,7 +427,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 <div align="center">
 
-### `> COMBAT_STATS — DSA & COMPETITIVE CODING`
+### `// COMBAT_PROTOCOLS — DSA & COMPETITIVE //`
 
 </div>
 
@@ -419,7 +443,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 **@tanny9000**
 <br/>
-🏆 Algorithms Warrior
+`[RANK]` Algorithms Warrior
 
 </td>
 
@@ -431,7 +455,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 **@tanishkgupta10**
 <br/>
-📚 Problem Solver
+`[RANK]` Problem Solver
 
 </td>
 
@@ -443,7 +467,7 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 **@tanishkgupta10**
 <br/>
-⚔️ Code Challenger
+`[RANK]` Code Challenger
 
 </td>
 
@@ -459,15 +483,13 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 <div align="center">
 
-### `> CONSUMING_CONTRIBUTIONS`
+### `// CONSUMING_CONTRIBUTIONS //`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanny99/tanny99/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanny99/tanny99/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tanny99/tanny99/output/github-contribution-grid-snake-dark.svg" width="95%" />
 </picture>
-
-<sub>⚡ Enable the GitHub Actions workflow in your profile repo to generate the snake animation</sub>
 
 </div>
 
@@ -479,22 +501,22 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 
 <div align="center">
 
-### `> ESTABLISH_CONNECTION`
+### `// ESTABLISH_UPLINK //`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=800&color=FF3864&center=true&vCenter=true&width=500&lines=%3E+OPENING+COMMUNICATION+CHANNELS...;%3E+ALL+FREQUENCIES+ACTIVE;%3E+READY+TO+CONNECT" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=800&color=FF3864&center=true&vCenter=true&width=520&lines=%3E+OPENING+COMMUNICATION+CHANNELS...;%3E+ALL+FREQUENCIES+ACTIVE;%3E+SECURE+CHANNEL+READY" alt="Connect Typing" />
 
 <br/>
 
 <a href="https://tanishkgupta.com" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Portfolio-OPEN_SECURE_CHANNEL-00d9ff?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://torrtus.com" target="_blank">
-<img src="https://img.shields.io/badge/Torrtus-Agency-7b2fbe?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Torrtus-AGENCY-7b2fbe?style=for-the-badge&logo=lightning&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
 <a href="https://menoob.in" target="_blank">
-<img src="https://img.shields.io/badge/Menoob-Gaming-ff3864?style=for-the-badge&logo=playstation&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Menoob-GAMING-ff3864?style=for-the-badge&logo=playstation&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
@@ -512,17 +534,18 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 </a>
 &nbsp;
 <a href="mailto:tanishkgupta10@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  > tanishkgupta10@gmail.com                             ║
-║  > Building something crazy? Let's talk.                ║
-║  > Open to: Collabs · Consulting · Interesting Problems ║
-╚══════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────┐
+│  > TRANSMISSION ENDPOINT: tanishkgupta10@gmail.com             │
+│  > Building something that matters? Let's connect.             │
+│  > OPEN_TO: Collabs · Consulting · Interesting Problems        │
+│  > SIGNAL_STRENGTH: [████████████████████] STRONG             │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
@@ -540,8 +563,14 @@ Via Torrtus — building custom AI agents, dashboards, and automation tools for 
 <br/><br/>
 
 ```
-> "Ship fast. Learn faster. Build things that matter."
-                                      — Tanishk Gupta
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                 │
+│   > "Ship fast. Learn faster. Build things that matter."       │
+│                                          — Tanishk Gupta       │
+│                                                                 │
+│   > SESSION END  |  NODE: tanny99  |  UPTIME: 5y 0d 0h 0m     │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
